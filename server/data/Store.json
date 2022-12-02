@@ -1,0 +1,98 @@
+[
+    {
+        "area": "2671.9094",
+        "stroeunit": "吨",
+        "name": "仓库1",
+        "id": "1645511494807",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-11-08 11:34:22"
+    },
+    {
+        "area": "49264.758",
+        "stroeunit": "吨",
+        "name": "仓库2",
+        "id": "1644237265943",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-10-28 02:35:11"
+    },
+    {
+        "area": "37283.13",
+        "stroeunit": "吨",
+        "name": "仓库3",
+        "id": "1649588220968",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-10-20 16:30:03"
+    },
+    {
+        "area": "74214.79",
+        "stroeunit": "吨",
+        "name": "仓库4",
+        "id": "1647796600149",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-08-01 20:21:17"
+    },
+    {
+        "area": "39736.133",
+        "stroeunit": "吨",
+        "name": "仓库5",
+        "id": "1648161063371",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-06-30 16:44:11"
+    },
+    {
+        "area": "57398.72",
+        "stroeunit": "吨",
+        "name": "仓库6",
+        "id": "1667558020021",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-05-13 12:22:48"
+    },
+    {
+        "area": "19334.947",
+        "stroeunit": "吨",
+        "name": "仓库7",
+        "id": "1652255424994",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-10-06 11:27:23"
+    },
+    {
+        "area": "79148.06",
+        "stroeunit": "吨",
+        "name": "仓库8",
+        "id": "1663181371999",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-10-03 06:05:57"
+    },
+    {
+        "area": "93209.53",
+        "stroeunit": "吨",
+        "name": "仓库9",
+        "id": "1658221625059",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-08-20 20:13:49"
+    },
+    {
+        "area": "54421.633",
+        "stroeunit": "吨",
+        "name": "仓库10",
+        "id": "1643872782663",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-05-18 05:54:19"
+    },
+    {
+        "area": "41715.016",
+        "stroeunit": "吨",
+        "name": "仓库11",
+        "id": "1658589133404",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-08-06 19:44:27"
+    },
+    {
+        "area": "42491.656",
+        "stroeunit": "吨",
+        "name": "仓库12",
+        "id": "1660789180374",
+        "sotreWeight": "4000",
+        "lastUpdatetime": "2022-03-18 22:55:52"
+    }
+]
